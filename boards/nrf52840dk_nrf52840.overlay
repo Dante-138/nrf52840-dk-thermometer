@@ -1,0 +1,9 @@
+/ {
+	aliases {
+		ambient-temp0 = &temp;
+	};
+};
+
+&temp {
+	status = "okay";
+};

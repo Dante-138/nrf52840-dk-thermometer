@@ -1,0 +1,22 @@
+# Zephyr build output
+build/
+twister-out/
+*.bin
+*.hex
+*.elf
+*.map
+
+# nRF Connect SDK
+.west/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
