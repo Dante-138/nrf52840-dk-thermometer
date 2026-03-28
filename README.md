@@ -36,6 +36,11 @@ Usando o **nRF Connect for VS Code** ou via terminal com West:
 ```bash
 west build -b nrf52840dk/nrf52840
 west flash
+
+ou
+
+west build -b nrf52840dk/nrf52840 --pristine
+west flash --runner jlink
 ```
 
 ## Saída esperada no console
