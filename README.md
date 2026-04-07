@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/MCU-nRF52840-blue?style=flat-square" alt="nRF52840"/>
+  <img src="https://img.shields.io/badge/RTOS-Zephyr-green?style=flat-square" alt="Zephyr"/>
+  <img src="https://img.shields.io/badge/SDK-nRF_Connect-red?style=flat-square" alt="nRF Connect SDK"/>
+  <img src="https://img.shields.io/badge/Sensor-Temperature-yellow?style=flat-square" alt="Temperature"/>
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="MIT"/>
+</p>
+
 # nRF52840 DK — Leitura de Temperatura Interna do Chip
 
 Projeto desenvolvido com o **nRF Connect SDK (Zephyr RTOS)** para leitura da temperatura interna do chip nRF52840 utilizando o sensor de temperatura integrado (`TEMP` peripheral).
